@@ -9,6 +9,7 @@ This endpoint needs two arguments to work propertly.
 > Address of the wallet that want to see the balance.
 
 This endpoint returns the balance in crypto of the wallet in the blockchain that the node is running on.
+
 ---
 
 ## /erc20-balance
@@ -23,6 +24,7 @@ This endpoints needs three arguments to work propertly.
 > Address of the ERC20 Contract that we want to see the balance of.
 
 This endpoint returns the balance of the wallet in some ERC20 on the blockchain that the node is running on.
+
 ---
 
 ## How to use it?
